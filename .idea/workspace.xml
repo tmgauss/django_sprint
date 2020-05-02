@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d6efc26-5fc9-416e-8866-664ed00ef675" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +47,7 @@
       <updated>1588218510733</updated>
       <workItem from="1588218516452" duration="2290000" />
       <workItem from="1588227716270" duration="3180000" />
+      <workItem from="1588346407251" duration="2981000" />
     </task>
     <servers />
   </component>
