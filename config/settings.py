@@ -25,7 +25,7 @@ SECRET_KEY = 'hx)1-8y*f1=wbt7wo^z$(umtqt)34mws+#lq)!g_h&dv(lh2kk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0']
+ALLOWED_HOSTS = ['127.0.0.1', '0.0.0.0']
 
 
 # Application definition
@@ -126,3 +126,5 @@ STATIC_URL = '/static/'
 
 # Custom
 AUTH_USER_MODEL = 'cms.User'
+LOGIN_URL = 'cms:login'
+LOGIN_REDIRECT_URL = 'cms:top'

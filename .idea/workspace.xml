@@ -2,13 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d6efc26-5fc9-416e-8866-664ed00ef675" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cms/templates/cms/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/templates/cms/top.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/migrations/0002_user_twitter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/mixins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/templates/cms/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/templates/cms/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/templates/cms/user_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/templates/cms/user_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/templates/cms/user_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/templates/cms/user_update.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/cms/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/templates/cms/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms/templates/cms/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cms/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cms/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/cms/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
